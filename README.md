@@ -28,7 +28,7 @@ This project focuses on conducting a scouting analysis for Feyenoord using playe
   
 ## Files Included
 - **[Jupyter Notebook](./Cloud%20Assignment%20Max%20Noorland.ipynb)**: Contains the code used for the scouting analysis and visualizations.
-- **[Presentation](./EXAM_Cloud%20Technologies_MAX_NOORLAND_Part2.pptx)**: Slide deck presented as part of the course assessment.
+- **[Presentation](./Feyenoord-Scouting-Analysis.pdf)**: Slide deck presented as part of the course assessment.
 
 ## Dataset Source
 The dataset used for this project can be accessed here:
